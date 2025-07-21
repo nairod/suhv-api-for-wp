@@ -8,11 +8,11 @@
 /*
 Plugin Name: SUHV API-2 Schnittstelle für WordPress
 Plugin URI: https://github.com/nairod/suhv-api-for-wp.git
-Description: Nutzt da neu API 2.0 von Swissunihockey.ch Basiert auf Lösung von Jérôme Meier http://www.schwarzpunkt.ch 2012
+Description: Nutzt das neu API 2.0 von Swissunihockey.ch Erweitert auf Basis von Thomas Hardegger, welche auf Lösung von Jérôme Meier http://www.schwarzpunkt.ch 2012 basiert.
 Version: 2.14
 Text Domain: SUHV-API-2
-Author: Thomas Hardegger
-Author URI: suhv.churunihockey.ch
+Author: Dorian Nyffeler
+Author URI: https://github.com/nairod/suhv-api-for-wp.git
 License: GPL2
 
 ----------------------------------------------------------------------------------------
